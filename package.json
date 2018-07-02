@@ -1,6 +1,6 @@
 {
   "name": "xcpretty",
-  "version": "0.2.8000",
+  "version": "0.2.8001",
   "description": "xcpretty release installable via npm/esy",
   "bin": {
     "xcpretty": "./bin/xcpretty"
